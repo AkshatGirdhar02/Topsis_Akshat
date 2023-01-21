@@ -2,16 +2,6 @@
 
 # TOPSIS
 
-Submitted By: **Akshat Girdhar - 102017147**.
-
-Title: **TOPSIS method for Multiple Criteria Decision Making (MCDM)**.
-
-Version: **1.0.4**.
-
-Author: **Akshat Girdhar**.
-
-Maintainer: **akshatgirdhar02@gmail.com**.
-
 Description: **Evaluation of alternatives based on multiple criteria using TOPSIS method.**.
 
 ---
